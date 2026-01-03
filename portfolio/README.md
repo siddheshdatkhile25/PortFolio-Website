@@ -16,7 +16,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 - **Mobile-First Approach**: Designed for mobile and scaled up
 - **Tablet Optimization**: Perfect experience on all screen sizes
 - **Desktop Enhancement**: Utilizes large screen real estate effectively
-- **Touch-Friendly**: Proper touch targets and mobile interactions
+- **Touch-Friendly**: Proper touch targets and mobile interactions.
 
 ### 🛠️ **Technical Features**
 - **Fast Performance**: Built with Vite for lightning-fast development and builds
